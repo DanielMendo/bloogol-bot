@@ -1,0 +1,4 @@
+requests
+faker
+python-dotenv
+openai
